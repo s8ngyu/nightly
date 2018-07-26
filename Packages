@@ -12,16 +12,16 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.supermamon.newpackage
 
-Package: com.cpdigitaldarkroom.barmoji
+Package: com.supermamon.oldpackage
 Version: 1.0
 Section: Tweaks
 Maintainer: KwonSoongyu <djperter@icloud.com>
-Depends: firmware (>11.0), mobilesubstrate
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
+Description: Quick emoji access for iPhone X
 Name: Old Package
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.cpdigitaldarkroom.barmoji
