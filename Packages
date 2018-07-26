@@ -13,7 +13,7 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.supermamon.newpackage
 
 Package: com.supermamon.oldpackage
-Version: 1.0.0-1
+Version: 1.0
 Section: Tweaks
 Maintainer: KwonSoongyu <djperter@icloud.com>
 Depends: firmware (<7.0)
@@ -23,8 +23,8 @@ Size: 860
 MD5sum: 8c606f0c05217aa2a20949091fe516f0
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://peterprd.github.io/nightly/depictions/?p=com.supermamon.oldpackage
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=com.cpdigitaldarkroom.barmoji
 
 Package: com.cpdigitaldarkroom.barmoji
 Version: 1.0
