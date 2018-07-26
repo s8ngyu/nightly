@@ -18,9 +18,9 @@ Section: Tweaks
 Maintainer: KwonSoongyu <djperter@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Filename: ./debs/com.cpdigitaldarkroom.barmoji_1.0_iphoneos-arm.deb
+Size: 6132
+MD5sum: 8c9630f863332c9d51b57ebf7f12aeb6
 Description: Quick emoji access for iPhone X
 Name: Barmoji
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
