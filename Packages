@@ -12,11 +12,11 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.supermamon.newpackage
 
-Package: com.supermamon.oldpackage
+Package: com.cpdigitaldarkroom.barmoji
 Version: 1.0
 Section: Tweaks
 Maintainer: KwonSoongyu <djperter@icloud.com>
-Depends: firmware (>=11.0), mobilesubstrate
+Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
 Size: 860
