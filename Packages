@@ -26,16 +26,3 @@ Name: Barmoji
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.cpdigitaldarkroom.barmoji
 
-Package: com.cpdigitaldarkroom.barmoji
-Version: 1.0
-Section: Tweaks
-Maintainer: KwonSoongyu <djperter@icloud.com>
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.cpdigitaldarkroom.barmoji_1.0_iphoneos-arm.deb
-Size: 6132
-MD5sum: 8c9630f863332c9d51b57ebf7f12aeb6
-Description: Quick emoji access for iPhone X
-Name: Barmoji
-Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
-Depiction: https://peterprd.github.io/nightly/depictions/?p=com.cpdigitaldarkroom.barmoji
