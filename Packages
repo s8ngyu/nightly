@@ -27,7 +27,7 @@ Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.cpdigitaldarkroom.barmoji
 
 Package: com.cokepokes.appstoreplusplus
-Version: 4.0
+Version: 0.4
 Section: Tweaks
 Maintainer: KwonSoongyu <djperter@icloud.com>
 Depends: firmware (>= 11.0), mobilesubstrate
