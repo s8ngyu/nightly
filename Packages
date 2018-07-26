@@ -12,7 +12,7 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.supermamon.newpackage
 
-Package: com.supermamon.oldpackage
+Package: com.cpdigitaldarkroom.barmoji
 Version: 1.0
 Section: Tweaks
 Maintainer: KwonSoongyu <djperter@icloud.com>
