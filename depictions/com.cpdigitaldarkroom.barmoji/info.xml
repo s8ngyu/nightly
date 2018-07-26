@@ -1,0 +1,23 @@
+<package>
+	<id>com.cpdigitaldarkroom.barmoji</id>
+	<name>OldBarmoji</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maniOS>11.0</maniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Quick emoji access for iPhone X</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

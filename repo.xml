@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/djperterpeter</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>View my GitHub Profile</name>
+			<url>https://github.com/cydiaksg/</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</footerlinks>
+</repo>
