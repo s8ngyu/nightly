@@ -33,7 +33,7 @@ Maintainer: PeterDev <djperter@icloud.com>
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.appadmin
 Architecture: iphoneos-arm
-Filename: ./debs/com.cokepokes.appstoreplusplus_0.4_iphoneos-arm.deb
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.4_iphoneos-arm.php
 Size: 798660
 MD5sum: 44d2489c74b44d1e62adc8b7359bdf1c
 SHA1: d4cb058d3f404f44df6277fdf37d920918bdcb30
@@ -45,14 +45,14 @@ Author: CokePokes
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.cokepokes.appstoreplusplus
 
 Package: com.peterdev.livefish
-Version: 0.1
+Version: 1.0
 Section: Tweaks
 Maintainer: PeterDev <djperter@icloud.com>
 Depends: firmware (>= 11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.peterdev.livefish_0.1_iphoneos-arm.deb
-Size: 42019008
-MD5sum: 6b56aa4e9a538fdb517f8a33480d3774
+Size: 42018922
+MD5sum: e04d5d1ba491faf1683e2429bd95c886
 Description: iOS 11 기기에 사라졌던 물고기 라이브배경화면을 추가시켜줍니다.
 Name: LiveFish
 Author: PeterDev <djperter@icloud>
