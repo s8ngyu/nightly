@@ -1,6 +1,6 @@
 <package>
-	<id>com.peterdev.cylo</id>
-	<name>Cylo</name>
+	<id>com.peterdev.sidia</id>
+	<name>Sidia</name>
 	<version>2.0</version>
 	<compatibility>
 		<firmware>
@@ -20,7 +20,7 @@
 			<image></image>
 		</screenshot>		
 		<screenshot>
-			<description>Cylo를 활성화시켜줍니다. Enable Cylo</description>
+			<description>Sidia를 활성화시켜줍니다. Enable Sidia</description>
 			<image></image>
 		</screenshot>
         <screenshot>
@@ -36,7 +36,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Bug Fixed</change>
+		<change>Change Name Cylo to Sidia</change>
 	</changelog>
 	<links>
 		<link>

@@ -1,5 +1,9 @@
 <changelog>
     <changes>
+		<version>3.0</version>
+		<change>Change Name Cylo to Sidia</change>
+	</changes>
+    <changes>
 		<version>2.0</version>
 		<change>Bug Fixed</change>
 	</changes>
