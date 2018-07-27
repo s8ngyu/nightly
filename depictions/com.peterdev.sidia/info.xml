@@ -1,46 +1,42 @@
 <package>
 	<id>com.peterdev.sidia</id>
 	<name>Sidia</name>
-	<version>3.1</version>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>iOS 7+ Anemone or Winterboard</package>
+		<package>iOS 7 - 11.4b3, Anemone or Winterboard</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Cydia아이콘을 Sileo아이콘으로 변경해줍니다.</description>
-		<description>Change Cydia Icon to Sileo Icon.</description>
+		<description><![CDATA[
+		Cydia아이콘을 Sileo아이콘으로 변경해줍니다..<br/> 
+		스크린샷에 자세한 설명이 있습니다..<br/>
+		사용해주셔서 감사합니다.<br/>
+		자세한 사용법은 스크린샷을 봐주세요
+		]]>
+		</description>
+		<description><![CDATA[
+		Change Cydia Icon to Sileo Icon<br/>
+		More description is in Screenshots<br/>
+		Thank you for using this tweak
+		]]>
+		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Anemone에 들어가줍니다. Go into Anemone</description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description>Sidia를 활성화시켜줍니다. Enable Sidia</description>
-			<image></image>
-		</screenshot>
-        <screenshot>
-			<description>Cydia아이콘을 더블클릭 해주세요. Double Click Cydia</description>
-			<image></image>
-		</screenshot>
-        <screenshot>
-			<description>Sileo아이콘을 클릭해주세요. Click Sileo Icon</description>
-			<image></image>
-		</screenshot>
-        <screenshot>
+			<description>I will upload discription as soon as possible</description>
 			<image></image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Change Name Cylo to Sidia in Anemone</change>
+		<change>Release</change>
 	</changelog>
 	<links>
 		<link>
-			<name>Follow Me On Reddit</name>
+			<name>Follow me on Reddit</name>
 			<url>https://www.reddit.com/u/djperter</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>

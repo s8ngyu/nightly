@@ -39,3 +39,17 @@ Description: iOS 11 기기에 사라졌던 물고기 라이브배경화면을 �
 Name: LiveFish
 Author: PeterDev <djperter@icloud>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.livefish
+
+Package: com.peterdev.sidia
+Version: 1.0
+Section: Themes
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: firmware (>= 7.0), winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.peterdev.livefish_1.1_iphoneos-arm.deb
+Size: 63258
+MD5sum: 161106017a65ed7247207b1027d08405
+Description: Cydia아이콘을 Sileo아이콘으로 변경해줍니다.
+Name: Sidia
+Author: PeterDev <djperter@icloud>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.sidia
