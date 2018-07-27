@@ -41,15 +41,15 @@ Author: PeterDev <djperter@icloud>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.livefish
 
 Package: com.peterdev.sidia
-Version: 3.0
+Version: 3.1
 Section: Themes
 Maintainer: PeterDev <djperter@icloud.com>
 Depends: firmware (>= 7.0), winterboard
 Architecture: iphoneos-arm
-Filename: ./debs/com.peterdev.sidia_3.0_iphoneos-arm.deb
+Filename: ./debs/com.peterdev.sidia_3.1_iphoneos-arm.deb
 Conflicts: com.imuseum.cyleo
 Size: 63258
-MD5sum: 9527507f0d50e5e411912615d29a62ee
+MD5sum: b5620ff07053dbed16b8b70249a07331
 Description: Cydia아이콘을 Sileo아이콘으로 바꿔줍니다.
 Name: Sidia
 Author: PeterDev <djperter@icloud>
