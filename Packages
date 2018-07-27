@@ -1,7 +1,7 @@
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Section: Downgrade
-Maintainer: KwonSoongyu <djperter@icloud.com>
+Maintainer: PeterDev <djperter@icloud.com>
 Depends: firmware (>11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
@@ -9,13 +9,13 @@ Size: 854
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: 여기서 다운그레이드 가능한 트윅을 확인할 수 있습니다.
 Name: Downgrade
-Author: KwonSoongyu <djperter@icloud.com>
+Author: PeterDev <djperter@icloud.com>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.supermamon.newpackage
 
 Package: com.cpdigitaldarkroom.barmoji
 Version: 1.0
 Section: Tweaks
-Maintainer: KwonSoongyu <djperter@icloud.com>
+Maintainer: PeterDev <djperter@icloud.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.cpdigitaldarkroom.barmoji_1.0_iphoneos-arm.deb
@@ -29,7 +29,7 @@ Depiction: https://peterprd.github.io/nightly/depictions/?p=com.cpdigitaldarkroo
 Package: com.cokepokes.appstoreplusplus
 Version: 0.4
 Section: Tweaks
-Maintainer: KwonSoongyu <djperter@icloud.com>
+Maintainer: PeterDev <djperter@icloud.com>
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.appadmin
 Architecture: iphoneos-arm
@@ -43,3 +43,17 @@ Description: iOS 11 앱스토어에서 앱들을 업그레이드/다운그레이
 Name: AppStore++
 Author: CokePokes
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.cokepokes.appstoreplusplus
+
+Package: com.peterdev.livefish
+Version: 0.1
+Section: Tweaks
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.peterdev.livefish_0.1_iphoneos-arm.deb
+Size: 42019008
+MD5sum: 6b56aa4e9a538fdb517f8a33480d3774
+Description: iOS 11 기기에 사라졌던 물고기 라이브배경화면을 추가시켜줍니다.
+Name: LiveFish
+Author: PeterDev <djperter@icloud>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.livefish

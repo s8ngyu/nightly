@@ -1,0 +1,37 @@
+<package>
+	<id>com.peterdev.livefish</id>
+	<name>LiveFish</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>firmware (>= 11.0), mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>아직 확인이 안된 패키지 입니다. 설치하지 마세요.</description>
+		<description>DO NOT INSTALL THIS TWEAKS.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>DO NOT INSTALL IT</description>
+			<image></image>
+		</screenshot>		
+		<screenshot>
+			<description>DO NOT INSTALL IT</description>
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Follow me on Reddit</name>
+			<url>https://www.reddit.com/u/djperter</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
