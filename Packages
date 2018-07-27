@@ -35,9 +35,9 @@ Conflicts: com.unlimapps.appadmin
 Architecture: iphoneos-arm
 Filename: ./debs/com.cokepokes.appstoreplusplus_0.4_iphoneos-arm.php
 Size: 798660
-MD5sum: 44d2489c74b44d1e62adc8b7359bdf1c
-SHA1: d4cb058d3f404f44df6277fdf37d920918bdcb30
-SHA256: 2b5d6a2b1f86fcba492920c6042873506e26609f5a4b32502a1e829d142ed067
+MD5sum: c700a6a0d083ccdea9ed9304d8c6dc53
+SHA1: 1884642171771022830fe70fc851516ee3f1b650
+SHA256: be0852f97ede9e6573f1642c6b2434e81b65126bbde840c3d8340689fefd3be1
 Priority: optional
 Description: iOS 11 앱스토어에서 앱들을 업그레이드/다운그레이드 할 수 있게 해줍니다.
 Name: AppStore++
