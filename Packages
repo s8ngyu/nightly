@@ -41,15 +41,15 @@ Author: PeterDev <djperter@icloud>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.livefish
 
 Package: com.peterdev.cylo
-Version: 1.0
+Version: 1.1
 Section: Themes
 Maintainer: PeterDev <djperter@icloud.com>
 Depends: firmware (>= 9.0), winterboard
 Architecture: iphoneos-arm
-Filename: ./debs/com.peterdev.cylo_1.0_iphoneos-arm.deb
+Filename: ./debs/com.peterdev.cylo_1.1_iphoneos-arm.deb
 Conflicts: com.imuseum.cyleo
-Size: 63538
-MD5sum: 5e0459769e65610db0cb1fff6180a3ee
+Size: 63238
+MD5sum: 70e0d69fa69df1c2a7ed0c902b1c4e8c
 Description: Cydia아이콘을 Sileo아이콘으로 바꿔줍니다.
 Name: Cylo
 Author: PeterDev <djperter@icloud>
