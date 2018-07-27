@@ -8,20 +8,21 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>firmware (>= 11.0), mobilesubstrate</package>
+		<package>iOS 11이상, mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
-		<description>아직 확인이 안된 패키지 입니다. 설치하지 마세요.</description>
-		<description>DO NOT INSTALL THIS TWEAKS.</description>
+		<description><![CDATA[
+		iOS 11에서 사라졌던 6종의 물고기 라이브 포토를 불러옵니다.<br/> 
+		설정 -> 배경화면 -> 배경화면 선택 -> Live에 있습니다.<br/>
+		사용해주셔서 감사합니다.<br/>
+		자세한 사용법은 스크린샷을 봐주세요.
+		]]>
+		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>DO NOT INSTALL IT</description>
-			<image></image>
-		</screenshot>		
-		<screenshot>
-			<description>DO NOT INSTALL IT</description>
-			<image></image>
+			<description>설정 배경화면에 Live에 추가됩니다.</description>
+			<image>pic0.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
