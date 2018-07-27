@@ -50,6 +50,6 @@ Filename: ./debs/com.peterdev.sidia_1.0_iphoneos-arm.deb
 Size: 63258
 MD5sum: 161106017a65ed7247207b1027d08405
 Description: Cydia아이콘을 Sileo아이콘으로 변경해줍니다.
-Name: Sidia
+Name: Sidia[DONOTDOWNLOAD]
 Author: PeterDev <djperter@icloud>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.sidia
