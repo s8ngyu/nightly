@@ -46,7 +46,7 @@ Section: Themes
 Maintainer: PeterDev <djperter@icloud.com>
 Depends: firmware (>= 7.0), winterboard
 Architecture: iphoneos-arm
-Filename: ./debs/com.peterdev.livefish_1.1_iphoneos-arm.deb
+Filename: ./debs/com.peterdev.sidia_1.0_iphoneos-arm.deb
 Size: 63258
 MD5sum: 161106017a65ed7247207b1027d08405
 Description: Cydia아이콘을 Sileo아이콘으로 변경해줍니다.
