@@ -7,4 +7,5 @@ May cause errors on your device
 Made by PeterDev, Web by Efrit
 
 Tweaks
--Barmoji
+-Barmoji1.0
+-LiveFish

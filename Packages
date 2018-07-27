@@ -26,33 +26,15 @@ Name: Barmoji
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.cpdigitaldarkroom.barmoji
 
-Package: com.cokepokes.appstoreplusplus
-Version: 0.4
-Section: Tweaks
-Maintainer: PeterDev <djperter@icloud.com>
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.appadmin
-Architecture: iphoneos-arm
-Filename: ./debs/com.cokepokes.appstoreplusplus_0.4_iphoneos-arm.html
-Size: 798660
-MD5sum: 44d2489c74b44d1e62adc8b7359bdf1c
-SHA1: d4cb058d3f404f44df6277fdf37d920918bdcb30
-SHA256: 2b5d6a2b1f86fcba492920c6042873506e26609f5a4b32502a1e829d142ed067
-Priority: optional
-Description: 설치하지 마세요.
-Name: AppStore++(TESTING)
-Author: CokePokes
-Depiction: https://peterprd.github.io/nightly/depictions/?p=com.cokepokes.appstoreplusplus
-
 Package: com.peterdev.livefish
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: PeterDev <djperter@icloud.com>
 Depends: firmware (>= 11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.peterdev.livefish_1.0_iphoneos-arm.deb
-Size: 42018922
-MD5sum: e04d5d1ba491faf1683e2429bd95c886
+Filename: ./debs/com.peterdev.livefish_1.1_iphoneos-arm.deb
+Size: 35818616
+MD5sum: fb77a992cbfd72d42d3b325c0aa5fa78
 Description: iOS 11 기기에 사라졌던 물고기 라이브배경화면을 추가시켜줍니다.
 Name: LiveFish
 Author: PeterDev <djperter@icloud>
