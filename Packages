@@ -39,8 +39,8 @@ MD5sum: 44d2489c74b44d1e62adc8b7359bdf1c
 SHA1: d4cb058d3f404f44df6277fdf37d920918bdcb30
 SHA256: 2b5d6a2b1f86fcba492920c6042873506e26609f5a4b32502a1e829d142ed067
 Priority: optional
-Description: iOS 11 앱스토어에서 앱들을 업그레이드/다운그레이드 할 수 있게 해줍니다.
-Name: AppStore++(DONOTDOWNLOAD)
+Description: 설치하지 마세요.
+Name: AppStore++(TESTING)
 Author: CokePokes
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.cokepokes.appstoreplusplus
 
