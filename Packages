@@ -33,7 +33,7 @@ Maintainer: PeterDev <djperter@icloud.com>
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.appadmin
 Architecture: iphoneos-arm
-Filename: ./debs/com.cokepokes.appstoreplusplus_0.4_iphoneos-arm.php
+Filename: ./debs/com.cokepokes.appstoreplusplus_0.4_iphoneos-arm.html
 Size: 798660
 MD5sum: 44d2489c74b44d1e62adc8b7359bdf1c
 SHA1: d4cb058d3f404f44df6277fdf37d920918bdcb30
