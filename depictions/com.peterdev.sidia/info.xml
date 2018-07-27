@@ -4,11 +4,11 @@
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>1.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>iOS 7 - 11.4b3, Anemone or Winterboard</package>
+		<package>Anemone or Winterboard</package>
 	</dependencies>
 	<descriptionlist>
 		<description><![CDATA[
