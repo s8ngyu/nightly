@@ -40,18 +40,17 @@ Name: LiveFish
 Author: PeterDev <djperter@icloud>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.livefish
 
-Package: com.peterdev.iwallx
-Version: 1.1
+Package: com.peterdev.jileumsin
+Version: 0.0.1-1+debug
 Section: Tweaks
 Maintainer: PeterDev <djperter@icloud.com>
 Depends: firmware (>= 11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.peterdev.iwallx_1.1_iphoneos-arm.deb
-Size: 18245756
-MD5sum: 664993518e9c3d3402819c26e11bd3f2
-SHA1: c75b0cabb8987e9e41f71884ff7e96fd02f13a8a
-SHA256: 3a370b0705071c5cad72f48ef513dbab3403fc298e0ef8bc716f7c66b119cb68
-Description: iOS 10 스틸이미지 배경화면을 추가시켜줍니다.
-Name: iWallX
-Author: PeterDev <djperter@icloud>
-Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.iwallx
+Filename: ./debs/com.peterdev.jileumsin_0.0.1-1+debug_iphoneos-arm.deb
+Size: 6016
+Installed-Size: 120
+MD5sum: 9c56fa8b6d1767447d8edc1c019c4103
+Description: iOS 11에서 Cydia구매를 활성화 시켜줍니다.
+Name: Jileumsin
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.jileumsin
