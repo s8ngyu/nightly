@@ -46,7 +46,6 @@ Section: Tweaks
 Maintainer: PeterDev <djperter@icloud.com>
 Depends: firmware (>= 11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Installed-Size: 282
 Filename: ./debs/com.peterdev.iwallx_1.1_iphoneos-arm.deb
 Size: 18245756
 MD5sum: 664993518e9c3d3402819c26e11bd3f2
