@@ -54,4 +54,4 @@ SHA256: 3a370b0705071c5cad72f48ef513dbab3403fc298e0ef8bc716f7c66b119cb68
 Description: iOS 10 스틸이미지 배경화면을 추가시켜줍니다.
 Name: iWallX
 Author: PeterDev <djperter@icloud>
-Depiction: ./depictions/com.peterdev.iwallx/index.html
+Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.iwallx
