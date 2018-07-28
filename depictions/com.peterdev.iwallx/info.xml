@@ -1,0 +1,50 @@
+<package>
+	<id>com.peterdev.iwallx</id>
+	<name>iWallX</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>iOS 11 - 11.4b3, mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+		iOS 10기본 배경화면을 iOS 11에 불러옵니다.<br/> 
+		설정 -> 배경화면 -> 배경화면 선택 -> 스틸이미지에 있습니다.<br/>
+		자세한 사용법은 스크린샷을 봐주세요.<br/>
+		사용해주셔서 감사합니다.
+		]]>
+		</description>
+		<dedication><![CDATA[
+		Bring back iOS 10 Still Wallpapers to iOS 11 devices.<br/>
+		Go to Setting -> Wallpaper -> Choose a New Wallpaper -> Stills<br/>
+		Look at the screenshots for detail<br/>
+		Thank you for using this tweak.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description><![CDATA[iOS 10의 기본 배경화면을 추가시켜줍니다.
+		    This Tweak will add iOS 10 Sitll Wallpapers.
+			]]>
+			</description>
+			<image></image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>
+		Release
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Follow me on Reddit</name>
+			<url>https://www.reddit.com/u/djperter</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
