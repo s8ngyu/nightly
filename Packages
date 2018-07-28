@@ -41,14 +41,14 @@ Author: PeterDev <djperter@icloud>
 Depiction: https://peterprd.github.io/nightly/depictions/?p=com.peterdev.livefish
 
 Package: com.peterdev.sidia
-Version: 0.0.1-1+debug
+Version: 1.0.0
 Section: Themes
 Maintainer: PeterDev <djperter@icloud.com>
 Depends: winterboard
 Architecture: iphoneos-arm
-Filename: ./debs/com.peterdev.sidia_0.0.1-1+debug_iphoneos-arm.deb
-Size: 63234
-MD5sum: c644544d591409aaffbc707bedbb41b4
+Filename: ./debs/com.peterdev.sidia_1.0_iphoneos-arm.deb
+Size: 63226
+MD5sum: 46c429949d4ccf3360ee0b4fdd48d632
 Description: Cydia아이콘을 Sileo아이콘으로 변경해줍니다.
 Name: Sidia[DONOTDOWNLOAD]
 Author: PeterDev <djperter@icloud>
