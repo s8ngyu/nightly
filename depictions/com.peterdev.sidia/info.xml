@@ -1,10 +1,10 @@
 <package>
 	<id>com.peterdev.sidia</id>
 	<name>Sidia</name>
-	<version>1.0</version>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>0.0.1-1+debug</miniOS>
+			<miniOS>1.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
