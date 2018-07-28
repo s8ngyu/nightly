@@ -1,7 +1,7 @@
 <package>
 	<id>com.peterdev.iwallx</id>
 	<name>iWallX</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -32,12 +32,12 @@
 		    This Tweak will add iOS 10 Sitll Wallpapers.
 			]]>
 			</description>
-			<image></image>
+			<image>pic0.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
 		<change>
-		Release
+		Bug Fixed
 		</change>
 	</changelog>
 	<links>
