@@ -1,8 +1,8 @@
 Origin: PeterDev Repository[NIGHTLY]
 Label: PeterDev
 Suite: stable
-Version: 2.0
-Codename: ios
+Version: 1.0
+Codename: peterdev
 Architectures: iphoneos-arm
 Components: main
 Description: PeterDev Repo Nightly
