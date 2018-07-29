@@ -1,7 +1,7 @@
 <package>
 	<id>com.peterdev.livefish</id>
 	<name>LiveFish</name>
-	<version>1.1</version>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -12,7 +12,7 @@
 	</dependencies>
 	<descriptionlist>
 		<description><![CDATA[
-		iOS 11에서 사라졌던 6종의 물고기 라이브 포토를 불러옵니다.<br/> 
+		iOS 11에서 사라졌던 6종의 물고기 라이브 포토를 불러옵니다.<br/>
 		설정 -> 배경화면 -> 배경화면 선택 -> Live에 있습니다.<br/>
 		사용해주셔서 감사합니다.<br/>
 		자세한 사용법은 스크린샷을 봐주세요.<br/>
@@ -29,13 +29,11 @@
 			]]>
 			</description>
 			<image>pic0.jpg</image>
-		</screenshot>		
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change><![CDATA[
-		기본모델에서 물고기 크게 보이는 버그 수정<br/>
-		Fixed HUGE fish on non-plus iPhone
-		]]>
+		<change>
+			Added Depiction
 		</change>
 	</changelog>
 	<links>
