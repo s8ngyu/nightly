@@ -1,14 +1,23 @@
 <changelog>
     <changes>
     <version>1.2</version>
-    <change>Added Depiction</change>
-  </changes>
+    <change>
+      Added Depictino
+  </change>
     <changes>
 		<version>1.1</version>
-		<change>Bug Fixed</change>
+		<change><![CDATA[
+		기본모델에서 물고기 크게 보이는 버그 수정<br/>
+		Fixed HUGE fish on non-plus iPhone
+		]]>
+		</change>
 	</changes>
     <changes>
 		<version>1.0</version>
+		<change>추가되지 않던 버그 수정</change>
+	</changes>
+	<changes>
+		<version>0.1</version>
 		<change>Release</change>
 	</changes>
 </changelog>
