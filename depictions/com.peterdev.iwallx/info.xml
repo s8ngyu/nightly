@@ -1,0 +1,24 @@
+<package>
+	<id>com.peterdev.iwallx</id>
+	<name>iWallX</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<maniOS>11.0</maniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>iOS 10의 스틸이미지 배경화면을 iOS 11에 추가시켜줍니다.</description>
+		<description>Add iOS 10 Stills Wallpaper to iOS 11 devices</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Added Depiction</change>
+	</changelog>
+	<links></links>
+</package>

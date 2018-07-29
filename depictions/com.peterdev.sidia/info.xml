@@ -1,0 +1,24 @@
+<package>
+	<id>com.peterdev.sidia</id>
+	<name>Sidia</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<maniOS>11.0</maniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Cydia 아이콘을 Sileo 아이콘으로 변경해줍니다.</description>
+		<description>Change Cydia Icon to Sileo Icon.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Added Depiction</change>
+	</changelog>
+	<links></links>
+</package>
