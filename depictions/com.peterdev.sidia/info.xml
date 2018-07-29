@@ -4,29 +4,21 @@
 	<version>1.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<maniOS>11.0</maniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
+	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Cydia 아이콘을 Sileo 아이콘으로 바꿔줍니다.</description>
-		<description>Change Cydia Icon to Sileo Icon</description>
+		<description>Cydia 아이콘을 Sileo 아이콘으로 변경해줍니다.</description>
+		<description>Change Cydia Icon to Sileo Icon.</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<image>pic0.jpg</image>
-		</screenshot>
-	</screenshots>
+	<screenshots></screenshots>
 	<changelog>
-		<change>Added Depiction/change>
+		<change>Added Depiction</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/u/djperter</name>
-			<url>https://www.reddit.com/user/djperter</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>

@@ -1,10 +1,17 @@
 <changelog>
     <changes>
+<<<<<<< HEAD
     <version>1.2</version>
     <change>
       Added Depictino
   </change>
     <changes>
+=======
+		<version>1.2</version>
+		<change>Added Depiction</change>
+	</changes>
+	<changes>
+>>>>>>> 40392c7f97acc74f601a41941c0f075aec622e23
 		<version>1.1</version>
 		<change><![CDATA[
 		기본모델에서 물고기 크게 보이는 버그 수정<br/>
@@ -12,12 +19,16 @@
 		]]>
 		</change>
 	</changes>
-    <changes>
+	<changes>
 		<version>1.0</version>
+<<<<<<< HEAD
 		<change>추가되지 않던 버그 수정</change>
 	</changes>
 	<changes>
 		<version>0.1</version>
 		<change>Release</change>
+=======
+		<change>Initial release</change>
+>>>>>>> 40392c7f97acc74f601a41941c0f075aec622e23
 	</changes>
 </changelog>
