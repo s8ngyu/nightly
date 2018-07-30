@@ -1,35 +1,31 @@
 <package>
-	<id>com.peterdev.livefish</id>
-	<name>LiveFish</name>
+	<id>com.peterdev.iwallx</id>
+	<name>iWallX</name>
 	<version>1.2</version>
 	<compatibility>
 		<firmware>
-			<maniOS>11.0</maniOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
 	<descriptionlist>
-<<<<<<< HEAD
 		<description><![CDATA[
-		iOS 11에서 사라졌던 6종의 물고기 라이브 포토를 불러옵니다.<br/>
-		설정 -> 배경화면 -> 배경화면 선택 -> Live에 있습니다.<br/>
+		iOS 10 스틸이미지 배경화면을 불러옵니다.<br/>
+		설정 -> 배경화면 -> 배경화면 선택 -> 스틸이미지에 있습니다.<br/>
 		사용해주셔서 감사합니다.<br/>
 		자세한 사용법은 스크린샷을 봐주세요.<br/>
-		Bring back Fish LiveWallpaper to iOS 11 devices<br/>
-		Go to Setting -> Wallpaper -> Choose a New Wallpaper -> Live<br/>
-		Thank you for using this tweak
+		Bring back iOS 10 Stills Wallpaper to iOS 11 devices<br/>
+		Go to Setting -> Wallpaper -> Choose a New Wallpaper -> Stills<br/>
+		Thank you for using this tweak.
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description><![CDATA[라이브 배경화면에 6종의 물고기를 추가시켜줍니다.
-		    There are 6 fish LiveWallpapers in the setting.
-			]]>
+			<description>
+				Bring back iOS 10 Stills Wallpaper
 			</description>
 			<image>pic0.jpg</image>
 		</screenshot>
@@ -38,14 +34,12 @@
 		<change>
 			Added Depiction
 		</change>
-=======
-		<description>iOS 10의 스틸이미지 배경화면을 iOS 11에 추가시켜줍니다.</description>
-		<description>Add iOS 10 Stills Wallpaper to iOS 11 devices</description>
-	</descriptionlist>
-	<screenshots></screenshots>
-	<changelog>
-		<change>Added Depiction</change>
->>>>>>> 40392c7f97acc74f601a41941c0f075aec622e23
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>Follow me on Reddit</name>
+			<url>https://www.reddit.com/u/djperter</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
 </package>
