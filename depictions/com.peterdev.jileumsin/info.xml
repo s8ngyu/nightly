@@ -20,5 +20,11 @@
 	<changelog>
 		<change>Added Depiction</change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+ 			<name>Follow me on Reddit</name>
+ 			<url>https://www.reddit.com/u/djperter</url>
+ 			<iconclass>fa fa-reddit</iconclass>
+ 		</link>
+	</links>
 </package>
