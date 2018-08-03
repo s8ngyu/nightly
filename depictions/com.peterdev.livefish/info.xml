@@ -8,7 +8,7 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>iOS 11 - 11.4b3, mobilesubstrate</package>
+		<package>3D Touch Devices, iOS 11 - 11.4b3, mobilesubstrate</package>
 	</dependencies>
 	<descriptionlist>
 		<description><![CDATA[
@@ -16,7 +16,7 @@
 		설정 -> 배경화면 -> 배경화면 선택 -> Live에 있습니다.<br/>
 		사용해주셔서 감사합니다.<br/>
 		자세한 사용법은 스크린샷을 봐주세요.<br/>
-		Bring back Fish LiveWallpaper to iOS 11 devices<br/>
+		Bring back Live Fish Wallpapers to iOS 11 devices<br/>
 		Go to Setting -> Wallpaper -> Choose a New Wallpaper -> Live<br/>
 		Thank you for using this tweak
 		]]>
@@ -25,7 +25,7 @@
 	<screenshots>
 		<screenshot>
 			<description><![CDATA[라이브 배경화면에 6종의 물고기를 추가시켜줍니다.
-		    There are 6 fish LiveWallpapers in the setting.
+		    There are 6 Live Fish Wallpapers in the setting.app.
 			]]>
 			</description>
 			<image>pic0.jpg</image>
