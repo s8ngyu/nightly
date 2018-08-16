@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.2.1</version>
+		<change>Fixed Dependencies Error</change>
+	</changes>
+	<changes>
 		<version>1.0.2</version>
 		<change>Fixed BundleID of VoiceMemos.app</change>
 	</changes>
