@@ -8,14 +8,17 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>iOS 7 - 11.4b3, Anemone or Winterboard</package>
+		<package>iOS 7 - 11.4b3, Anemone.</package>
 	</dependencies>
 	<descriptionlist>
 		<description><![CDATA[
 	  Cydia 아이콘을 Sileo 아이콘으로 변경해줍니다.<br/>
-		아이콘만 변경해 주며, 이름은 Icon Renamer로 변경하세요.<br/>
+		아이콘만 변경해 주며, 이름은 Icon Renamer로 변경하세요.
+		]]>
+	</description>
+	<description><![CDATA[
 		Change Cydia Icon to Sileo Icon<br/>
-		This tweak only change the Icon, You should<br/>
+		This tweak only change the Icon, You should use<br/>
 		Icon Renamer to change Icon name.
 		]]>
 		</description>
