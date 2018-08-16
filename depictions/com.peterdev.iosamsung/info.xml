@@ -1,7 +1,7 @@
 <package>
 	<id>com.peterdev.iosamsung</id>
 	<name>iOSamsung</name>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -35,7 +35,7 @@
 	</screenshots>
 	<changelog>
 		<change>
-			Added News Icon
+			Fixed BundleID of VoiceMemos.app
 		</change>
 	</changelog>
 	<links>
