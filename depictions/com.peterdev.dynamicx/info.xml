@@ -1,0 +1,49 @@
+<package>
+	<id>com.peterdev.dynamicx</id>
+	<name>Dynamic X</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, iOS 8 or above</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+	  	iPhone X의 다이나믹 배경화면을 불러옵니다.<br/>
+	  	설정 -> 배경화면 -> 배경화면 선택 -> Dynamic에 있습니다.<br/>
+	  	사용해주셔서 감사합니다.]]>
+  	</description>
+  	<description><![CDATA[
+	  	Bring Dynamic Wallpapers of iPhone X to older iPhone.<br/>
+	  	Go to Setting -> Wallpaper -> Choose a New Wallpaper -> Dynamic<br/>
+  		Thank you for using this tweak.
+	  	]]>
+  	</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>pic0.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>
+				Bring Dynamic Wallpapers of iPhone X to older iPhone.
+			</description>
+			<image>pic1.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>
+			Release
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Follow me on Reddit</name>
+			<url>https://www.reddit.com/u/djperter</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
