@@ -1,12 +1,21 @@
-# Reposi3
+# PeterDev Repository
 
-KSG's Repository NIGHTLY
+PeterDev Repository
+Brought to you by the PeterDev
 
-May cause errors on your device
-
-Made by PeterDev, Web by Efrit
 
 Tweaks
--Barmoji1.0
 -LiveFish
 -Jileumsin
+-iWallX
+-Live X
+-Nota
+-N9 Wall
+-Dynamimc X
+-BypassInterparkJB
+-BypassInterparkBookJB
+-CombinationLockHelper
+
+Themes
+-Sidia
+-iOSamsung
