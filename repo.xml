@@ -1,6 +1,11 @@
 <repo>
 	<footerlinks>
 		<link>
+			<name>Donate Me</name>
+			<url>https://paypal.me/peterdev/1</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
 			<name>Follow me on Twitter</name>
 			<url>https://twitter.com/djperterpeter/</url>
 			<iconclass>fa fa-twitter</iconclass>
