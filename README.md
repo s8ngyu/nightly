@@ -15,6 +15,7 @@ Tweaks
 -BypassInterparkJB
 -BypassInterparkBookJB
 -CombinationLockHelper
+-urWireless
 
 Themes
 -Sidia

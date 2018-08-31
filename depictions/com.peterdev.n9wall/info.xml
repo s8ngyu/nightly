@@ -4,7 +4,7 @@
 	<version>1.1</version>
 	<compatibility>
 		<firmware>
-			<mixiOS>13.0</mixiOS>
+			<mixiOS>1.0</mixiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>

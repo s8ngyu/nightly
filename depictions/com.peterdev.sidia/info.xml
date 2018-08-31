@@ -26,7 +26,7 @@
 	<screenshots>
 		<screenshot>
 			<description>
-				Fiexed Dependencies Error
+				Enable it with Anemone.
 			</description>
 			<image>pic0.jpg</image>
 		</screenshot>
@@ -57,7 +57,7 @@
 	</screenshots>
 	<changelog>
 		<change>
-			Added Depiction
+			Fixed Dependencies Error
 		</change>
 	</changelog>
 	<links>
