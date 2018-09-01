@@ -1,0 +1,50 @@
+<package>
+	<id>com.peterdev.twallve</id>
+	<name>Twallve</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<mixiOS>11.4</mixiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description><![CDATA[
+	    iOS 12의 배경화면을 불러옵니다.<br/>
+	  	설정 -> 배경화면 -> 배경화면 선택 -> 스틸이미지에 있습니다.<br/>
+	  	사용해주셔서 감사합니다.<br/>
+	  	자세한 사용법은 스크린샷을 봐주세요.]]>
+  	</description>
+  	<description><![CDATA[
+	  	Bring Wallpapers of iOS 12<br/>
+	  	Go to Setting -> Wallpaper -> Choose a New Wallpaper -> Stills<br/>
+  		Thank you for using this tweak.
+	  	]]>
+  	</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>pic0.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>
+				iOS 12 Wallpapers
+			</description>
+			<image>pic1.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>
+			Release
+		</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Follow me on Reddit</name>
+			<url>https://www.reddit.com/u/djperter</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
