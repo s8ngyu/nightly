@@ -1,6 +1,6 @@
-# PeterDev Repository
+# Nexus Repository
 
-PeterDev Repository
+Nexus Repository
 Brought to you by the PeterDev
 
 
