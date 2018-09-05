@@ -22,3 +22,4 @@ Themes
 -Sidia
 -iOSamsung
 -Olddit
+-iOS 12 Theme
