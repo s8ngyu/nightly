@@ -1,25 +1,25 @@
-# Nexus Repository
+# Nexus Repository  
+Nexus Repository  
+Brought to you by the PeterDev  
 
-Nexus Repository
-Brought to you by the PeterDev
 
+Tweaks  
+-LiveFish  
+-Jileumsin  
+-iWallX  
+-Live X  
+-Nota  
+-N9 Wall  
+-Dynamimc X  
+-BypassInterparkJB  
+-BypassInterparkBookJB  
+-CombinationLockHelper  
+-urWireless  
+-Twallve  
+-hide JB Apps  
 
-Tweaks
--LiveFish
--Jileumsin
--iWallX
--Live X
--Nota
--N9 Wall
--Dynamimc X
--BypassInterparkJB
--BypassInterparkBookJB
--CombinationLockHelper
--urWireless
--Twallve
-
-Themes
--Sidia
--iOSamsung
--Olddit
--iOS 12 Theme
+Themes  
+-Sidia  
+-iOSamsung  
+-Olddit  
+-iOS 12 Theme  
