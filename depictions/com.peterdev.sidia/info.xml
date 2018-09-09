@@ -62,6 +62,21 @@
 	</changelog>
 	<links>
 		<link>
+			<name>Support me on Paypal</name>
+			<url>https://paypal.me/peterdev/1</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/djperterpeter/</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Follow me on Github</name>
+			<url>https://github.com/peterprd/</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
 			<name>Follow me on Reddit</name>
 			<url>https://www.reddit.com/u/djperter</url>
 			<iconclass>fa fa-reddit</iconclass>
