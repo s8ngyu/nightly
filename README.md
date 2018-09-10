@@ -23,3 +23,4 @@ Themes
 -iOSamsung  
 -Olddit  
 -iOS 12 Theme  
+-iOS 8.3 Music Icon  

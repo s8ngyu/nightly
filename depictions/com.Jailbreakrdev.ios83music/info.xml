@@ -1,6 +1,6 @@
 <package>
-	<id>com.Jailbreakrdev.ios12theme</id>
-	<name>iOS 12 Theme</name>
+	<id>com.Jailbreakrdev.ios83music</id>
+	<name>iOS 8.3 Music Icon</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -12,17 +12,14 @@
 	</dependencies>
 	<descriptionlist>
 	<description><![CDATA[
-		iOS 12 theme for iOS 7-11 Apply with Anemone.<br/>
+		iOS 8.3 Music Icon for iOS 7-11 Apply with Anemone.<br/>
 		Thank you for using.
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>
-				Screenshots not available yet
-			</description>
-			<!--<image>pic0.jpg</image>-->
+			<image>pic0.jpg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
