@@ -1,8 +1,8 @@
-Origin: Nexus
-Label: Nexus
+Origin: OLD REPO, USE: nexusrepo.kro.kr
+Label: YOU ARE USING THE OLD REPO
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Nexus Repository
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)

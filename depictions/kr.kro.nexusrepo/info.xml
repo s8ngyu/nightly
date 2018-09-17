@@ -1,0 +1,29 @@
+<package>
+	<id>kr.kro.nexusrepo</id>
+	<name>YOU'RE USING THE OLD REPO</name>
+	<version>9.9.9</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>1.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>오래된 리포입니다, 삭제하시고 이걸 추가하세요: nexusrepo.kro.kr</description>
+		<description>OLD REPO, REMOVE AND USE: nexusrepo.kro.kr</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+	</changelog>
+	<links>
+		<link>
+			<name>ADD NEW REPO TO CYDIA</name>
+			<url>cydia://url/https://cydia.saurik.com/api/share#?source=http://nexusrepo.kro.kr</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+	</links>
+</package>

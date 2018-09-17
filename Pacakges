@@ -1,0 +1,294 @@
+Package: com.Jailbreakrdev.ios12theme
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: mobilesubstrate, com.anemonetheming.anemone
+Filename: ./debs/com.Jailbreakrdev.ios12theme_1.0_iphoneos-arm.deb
+Size: 445516
+MD5sum: c9a2b681d4cdbd83c8c3d7d5531c2708
+SHA1: 688a7db679858ffc526095fe9f69fc2f24dff163
+SHA256: 15b714b8a49a694bee7cb7a90768f9d47e2adfab950b2f0d5063c28bcc302a50
+Section: Themes
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: The iOS Jailbreakr <Sebastianroxs@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.Jailbreakrdev.ios83music
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: mobilesubstrate, com.anemonetheming.anemone
+Filename: ./debs/com.Jailbreakrdev.ios83music_1.0_iphoneos-arm.deb
+Size: 5314
+MD5sum: 7bd4fe65cf3079e599c58893db1f3b7d
+SHA1: 928c237b24b788e2f789307bb805f7fded54c1a4
+SHA256: 4b223f0a81143f38ba4d9c4967cb0c2586500137a6beca1f1e12b774b1f96f8e
+Section: Themes
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: The iOS Jailbreakr <Sebastianroxs@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.dynamicx
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: mobilesubstrate, firmware (>=8.0)
+Filename: ./debs/com.peterdev.dynamicx_1.0_iphoneos-arm.deb
+Size: 5368162
+MD5sum: fd3402cb1696b2b3950e97e1a49a102b
+SHA1: 11a07ee3de3208582450bcf74f27a19a8fd403e2
+SHA256: e96f32d37a8d2259e3ef31e4f3630f6a61c8de8636ab16a55bf3efb0f93b24b4
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.hidejbapps
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.peterdev.hidejbapps_1.0-1+debug_iphoneos-arm.deb
+Size: 4794
+MD5sum: f3c6942a18bb162a88a92120781e3f1d
+SHA1: 2cb2789bbe86b8e4a6f7370c196de3174c2c901b
+SHA256: 8a738dc3cda5e019f656f753e15abccfe75d1ada2dfa8726ca2b225faa98db90
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.iosamsung
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.peterdev.iosamsung_1.1.1_iphoneos-arm.deb
+Size: 1359640
+MD5sum: 95e8141824f13c2977e3d6b8d4cb2cde
+SHA1: 437c331ad3a22c4d615fc29846840d7a0e99f2bd
+SHA256: c4b1ead09dee82995970fd475b47c33bff5dc6c9992846d6d7eb032b49c61692
+Section: Themes
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.iwallx
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.peterdev.iwallx_1.2_iphoneos-arm.deb
+Size: 18245862
+MD5sum: 02f9263178800f8069be85844389d5f1
+SHA1: 021307348a211062be062568f8007b1db4606544
+SHA256: f557b4ce8ad4f435219b0d3811c60240ad5fec76a3a8c6567234fd4111dba492
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.jileumsin
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.peterdev.jileumsin_1.0-1+debug_iphoneos-arm.deb
+Size: 4338
+MD5sum: 5ad60d1b0da86874dd2c58ac2f78f86a
+SHA1: 30f7675c6ea81f65dedb6823efec3b310acb2fa6
+SHA256: c22ed3557e59012053d9dbdf5d8e23ff2f719c104496f1dea67183c0f583b6d6
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.livefish
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/com.peterdev.livefish_1.2_iphoneos-arm.deb
+Size: 35818728
+MD5sum: 147bcd0b46a69c0adc0d234b306bd4a1
+SHA1: 729644793c116501737bb0016b04eab6e164feb3
+SHA256: 895aecf225a77cad4c730baa2af080aeaf63ded9be566e6f6a2bf13505f7bb1d
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.livex
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.peterdev.livex_1.0_iphoneos-arm.deb
+Size: 21834198
+MD5sum: e4310c2768c5c54c423092c8d83153ab
+SHA1: 350ff74dd3f66d045b135f841d92fbb8727c773e
+SHA256: 55b5fc9086cc226a5438d22d64e418745bd4ebbc682145b5ecde8dedc7514ccc
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.n9wall
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.peterdev.n9wall_1.0_iphoneos-arm.deb
+Size: 27549614
+MD5sum: 059fbc9ab359f3ebf6995201919abdb4
+SHA1: 1ce53947a8664b2167d0bb0d1e5bf4544c12f9e6
+SHA256: d01f53029873321b91cb664d4b9054df548770cf66567622046fcd14f651fc73
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.nota
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.peterdev.nota_1.2.6-2+debug_iphoneos-arm.deb
+Size: 14892
+MD5sum: c6701755b2cc8ab311399d4d6a00c776
+SHA1: 966670eb60a9c00da70507ce4c368ec13dd3e804
+SHA256: aecbd5662f4c0802f1a159c59c90298bdd0bf5c9cb12aa12531989617002eeaa
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.olddit
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: mobilesubstrate, com.anemonetheming.anemone
+Filename: ./debs/com.peterdev.olddit_1.0_iphoneos-arm.deb
+Size: 30330
+MD5sum: 4c965c33bbf87c132cf563f9899d1c3d
+SHA1: 7c02b472e7af2f8e38ee2a1d1729cf71897bf8de
+SHA256: fb8e48c092d80c8f71a7bcfb10b1cdd04349201343b5e4da4700fad83e65193e
+Section: Themes
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.sidia
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: com.anemonetheming.anemone
+Conflicts: com.imuseum.cyleo
+Filename: ./debs/com.peterdev.sidia_1.2_iphoneos-arm.deb
+Size: 63318
+MD5sum: 06b15e4ad1d24dd74c55b8864cb861b7
+SHA1: af05899166d9e2891d860b7f0190deeddede44da
+SHA256: 27e69bf1c514684de8250b08c6a9dee3e0e6dd673684fe23d66c69967fea19ed
+Section: Themes
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.twallve
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: mobilesubstrate, firmware (<<12.0)
+Filename: ./debs/com.peterdev.twallve_1.0_iphoneos-arm.deb
+Size: 1557998
+MD5sum: 1fbb61e4a1fe1bfdf1eecf7e8420a8a0
+SHA1: 7e10dcb23dde706d6d7d9fcfdbbed9dea6065ba2
+SHA256: c6a594c1da171af687b287a36ee52bfa8bd62a8851db461c06fbaec2446272cf
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.peterdev.urwireless
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.peterdev.urwireless_1.0_iphoneos-arm.deb
+Size: 362564
+MD5sum: e880a30f4cb653b4318a0df95ba332a9
+SHA1: c82dc586cf213d3d3a3ab0f36d59dc1ba933bb12
+SHA256: 39ea44252df56adb523db48a112c5026cd1c89a59299a9efd4b6807a8cd49597
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: PeterDev <djperter@icloud.com>
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.xsf1re.BypassInterparkBookJB
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: ./debs/com.xsf1re.BypassInterparkBookJB_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3452
+MD5sum: 067d342d3e3f994e03722d2510017cd9
+SHA1: 512711aba80b744b48059e13e8c03818f8bbcdc5
+SHA256: 656aa87bfa5e3e99875a2fa8f42d6f83ce456c95eb0dc5768de6987ba8b8552a
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: XsF1re
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.xsf1re.BypassInterparkJB
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 117
+Depends: mobilesubstrate
+Filename: ./debs/com.xsf1re.BypassInterparkJB_0.0.1-3+debug_iphoneos-arm.deb
+Size: 3522
+MD5sum: 5c09e96636dec91a18e4b2ea51a552af
+SHA1: 811db22ddf9f707ace45004af1dc0cb9c5a5040e
+SHA256: 684d874c38e6178f43f24909fe79760f846d59c9cb111d90c8b29b76d6d2c99f
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: XsF1re
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
+
+Package: com.xsf1re.combinationlockhelper
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: PeterDev <djperter@icloud.com>
+Installed-Size: 117
+Depends: mobilesubstrate, com.patsluth.swcombinationlock
+Filename: ./debs/com.xsf1re.combinationlockhelper_0.0.1-27+debug_iphoneos-arm.deb
+Size: 3472
+MD5sum: f9d1c5e157f0043a7c4f70443b32a5ce
+SHA1: f216f041e434b060b3de50c5fda9fab16892d876
+SHA256: a936c0ee396933ca9aeec879a9cd6d16c791b20cb49f643591b50b43544c8692
+Section: Tweaks
+Description: Repo moved to: nexusrepo.kro.kr (see depiction)
+Author: XsF1re
+Depiction: https://peterprd.github.io/nightly/depictions/?p=kr.kro.nexusrepo
+Name: !!!YOU'RE USING THE OLD REPO!!!
