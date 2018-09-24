@@ -1,47 +1,31 @@
 <package>
-	<id>com.Jailbreakrdev.ios83music</id>
-	<name>iOS 8.3 Music Icon</name>
+	<id>com.Jailbreakrdev.ios12theme</id>
+	<name>THIS IS AN OLD REPO</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>12.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>iOS 7 - 11.4b3, Anemone.</package>
+		<package>NEW REPO</package>
 	</dependencies>
 	<descriptionlist>
-	<description><![CDATA[
-		iOS 8.3 Music Icon for iOS 7-11 Apply with Anemone.<br/>
-		Thank you for using.
-		]]>
-		</description>
+	<description>This is an old repo use: nexusrepo.kro.kr </description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<image>pic0.jpg</image>
+			<description>
+				THIS IS AN OLD REPO
+			</description>
+			<!--<image>pic0.jpg</image>-->
 		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>
-			Release
+			USE THE NEW REPO
 		</change>
 	</changelog>
 	<links>
-		<link>
-			<name>The iOS Jailbreakr Reddit</name>
-			<url>https://www.reddit.com/user/ILoveAndroidYT</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-		<link>
-			<name>The iOS Jailbreakr Twitter</name>
-			<url>https://mobile.twitter.com/iosjailbreakr</url>
-			<iconclass>fa fa-twitter</iconclass>
-		</link>
-		<link>
-			<name>The iOS Jailbreakr Youtube</name>
-			<url>https://m.youtube.com/iloveios?uid=1-zGWDg8mpgVL8UdSE9rrA</url>
-			<iconclass>fa fa-youtube</iconclass>
-		</link>
 	</links>
 </package>

@@ -1,45 +1,31 @@
 <package>
-	<id>com.peterdev.nota</id>
-	<name>Nota</name>
-	<version>1.2.6-2+debug</version>
+	<id>com.Jailbreakrdev.ios12theme</id>
+	<name>THIS IS AN OLD REPO</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<maniOS>9.2</maniOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>12.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>mobilesubstrate</dependencies>
+	<dependencies>
+		<package>NEW REPO</package>
+	</dependencies>
 	<descriptionlist>
-		<description>시스템 업데이트를 막아주고, 피드백 앱을 삭제해줍니다. 업데이트 뱃지를 삭제해주고 소프트웨어 업데이트 창을 삭제해줍니다! 그리고 더 많은 기능이 있습니다.</description>
-		<description>Block System update, Remove Feedback.app. Remove update badge and Software Update Window! And It has more function.</description>
+	<description>This is an old repo use: nexusrepo.kro.kr </description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>
+				THIS IS AN OLD REPO
+			</description>
+			<!--<image>pic0.jpg</image>-->
+		</screenshot>
+	</screenshots>
 	<changelog>
-		<change>Release</change>
+		<change>
+			USE THE NEW REPO
+		</change>
 	</changelog>
 	<links>
-		<link>
-			<name>Support me on Paypal</name>
-			<url>https://paypal.me/peterdev/1</url>
-			<iconclass>fa fa-paypal</iconclass>
-		</link>
-		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/djperterpeter/</url>
-			<iconclass>fa fa-twitter</iconclass>
-		</link>
-		<link>
-			<name>Follow me on Github</name>
-			<url>https://github.com/peterprd/</url>
-			<iconclass>fa fa-github</iconclass>
-		</link>
-		<link>
-			<name>Follow me on Reddit</name>
-			<url>https://www.reddit.com/u/djperter</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
 	</links>
 </package>

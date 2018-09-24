@@ -1,85 +1,31 @@
 <package>
-	<id>com.peterdev.sidia</id>
-	<name>Sidia</name>
-	<version>1.2</version>
+	<id>com.Jailbreakrdev.ios12theme</id>
+	<name>THIS IS AN OLD REPO</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>12.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>iOS 7 - 11.4b3, Anemone.</package>
+		<package>NEW REPO</package>
 	</dependencies>
 	<descriptionlist>
-		<description><![CDATA[
-	  Cydia 아이콘을 Sileo 아이콘으로 변경해줍니다.<br/>
-		아이콘만 변경해 주며, 이름은 Icon Renamer로 변경하세요.
-		]]>
-	</description>
-	<description><![CDATA[
-		Change Cydia Icon to Sileo Icon<br/>
-		This tweak only change the Icon, You should use<br/>
-		Icon Renamer to change Icon name.
-		]]>
-		</description>
+	<description>This is an old repo use: nexusrepo.kro.kr </description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description>
-				Enable it with Anemone.
+				THIS IS AN OLD REPO
 			</description>
-			<image>pic0.jpg</image>
-		</screenshot>
-		<screenshot>
-			<description>
-				Go back to home.
-			</description>
-			<image>pic1.jpg</image>
-		</screenshot>
-		<screenshot>
-			<description>
-				Press long and Click shortly.
-			</description>
-			<image>pic2.jpg</image>
-		</screenshot>
-		<screenshot>
-			<description>
-				Select Sileo Icon.
-			</description>
-			<image>pic3.jpg</image>
-		</screenshot>
-		<screenshot>
-			<description>
-				Well done.
-			</description>
-			<image>pic4.jpg</image>
+			<!--<image>pic0.jpg</image>-->
 		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>
-			Fixed Dependencies Error
+			USE THE NEW REPO
 		</change>
 	</changelog>
 	<links>
-		<link>
-			<name>Support me on Paypal</name>
-			<url>https://paypal.me/peterdev/1</url>
-			<iconclass>fa fa-paypal</iconclass>
-		</link>
-		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/djperterpeter/</url>
-			<iconclass>fa fa-twitter</iconclass>
-		</link>
-		<link>
-			<name>Follow me on Github</name>
-			<url>https://github.com/peterprd/</url>
-			<iconclass>fa fa-github</iconclass>
-		</link>
-		<link>
-			<name>Follow me on Reddit</name>
-			<url>https://www.reddit.com/u/djperter</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
 	</links>
 </package>

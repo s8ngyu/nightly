@@ -1,45 +1,31 @@
 <package>
-	<id>com.peterdev.jileumsin</id>
-	<name>Jileumsin</name>
-	<version>1.0-1+debug</version>
+	<id>com.Jailbreakrdev.ios12theme</id>
+	<name>THIS IS AN OLD REPO</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<maniOS>11.0</maniOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>12.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>mobilesubstrate</dependencies>
+	<dependencies>
+		<package>NEW REPO</package>
+	</dependencies>
 	<descriptionlist>
-		<description>지름신, iOS 11에서 Cydia구매를 활성화 시켜줍니다. 카드를 집고 설치하세요!</description>
-		<description>Jileumsin, Let you buy Cydia tweak. Pick your credit card up!</description>
+	<description>This is an old repo use: nexusrepo.kro.kr </description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>
+				THIS IS AN OLD REPO
+			</description>
+			<!--<image>pic0.jpg</image>-->
+		</screenshot>
+	</screenshots>
 	<changelog>
-		<change>Added Depiction</change>
+		<change>
+			USE THE NEW REPO
+		</change>
 	</changelog>
 	<links>
-		<link>
-			<name>Support me on Paypal</name>
-			<url>https://paypal.me/peterdev/1</url>
-			<iconclass>fa fa-paypal</iconclass>
-		</link>
-		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/djperterpeter/</url>
-			<iconclass>fa fa-twitter</iconclass>
-		</link>
-		<link>
-			<name>Follow me on Github</name>
-			<url>https://github.com/peterprd/</url>
-			<iconclass>fa fa-github</iconclass>
-		</link>
-		<link>
- 			<name>Follow me on Reddit</name>
- 			<url>https://www.reddit.com/u/djperter</url>
- 			<iconclass>fa fa-reddit</iconclass>
- 		</link>
 	</links>
 </package>

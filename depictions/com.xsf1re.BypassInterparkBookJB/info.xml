@@ -1,24 +1,31 @@
 <package>
-	<id>com.xsf1re.BypassInterparkBookJB</id>
-	<name>BypassInterparkBookJB</name>
-	<version>0.0.1-1+debug</version>
+	<id>com.Jailbreakrdev.ios12theme</id>
+	<name>THIS IS AN OLD REPO</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<maniOS>9.3</maniOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>12.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>mobilesubstrate</dependencies>
+	<dependencies>
+		<package>NEW REPO</package>
+	</dependencies>
 	<descriptionlist>
-		<description>인터파크도서 앱의 탈옥 감지를 우회시킵니다.</description>
-		<description>Bypass InterparkBook App's jailbreak detection.</description>
+	<description>This is an old repo use: nexusrepo.kro.kr </description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>
+				THIS IS AN OLD REPO
+			</description>
+			<!--<image>pic0.jpg</image>-->
+		</screenshot>
+	</screenshots>
 	<changelog>
-		<change>Added on PeterDev Repository</change>
+		<change>
+			USE THE NEW REPO
+		</change>
 	</changelog>
-	<links></links>
+	<links>
+	</links>
 </package>

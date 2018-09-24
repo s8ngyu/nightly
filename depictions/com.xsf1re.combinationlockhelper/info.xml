@@ -1,31 +1,31 @@
 <package>
-	<id>com.xsf1re.combinationlockhelper</id>
-	<name>CombinationLockHelper</name>
-	<version>0.0.1-27+debug</version>
+	<id>com.Jailbreakrdev.ios12theme</id>
+	<name>THIS IS AN OLD REPO</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<maniOS>11.0</maniOS>
-			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>12.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>mobilesubstrate, Combination Lock</dependencies>
+	<dependencies>
+		<package>NEW REPO</package>
+	</dependencies>
 	<descriptionlist>
-		<description>비밀번호를 입력하는 창에서 Combination Lock트윅과 기존 키패드가 서로 겹쳐지는 오류를 수정합니다.</description>
-		<description>Fix a problem between Combination Lock and Original Keypad.</description>
+	<description>This is an old repo use: nexusrepo.kro.kr </description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<image>pic0.jpg</image>
-		</screenshot>
-		<screenshot>
-			<image>pic1.jpg</image>
+			<description>
+				THIS IS AN OLD REPO
+			</description>
+			<!--<image>pic0.jpg</image>-->
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added on PeterDev Repository</change>
+		<change>
+			USE THE NEW REPO
+		</change>
 	</changelog>
-	<links></links>
+	<links>
+	</links>
 </package>
