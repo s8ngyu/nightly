@@ -1,8 +1,18 @@
 <repo>
 	<footerlinks>
 		<link>
+			<name>Add a New Repo to Cydia</name>
+			<url>cydia://url/https://cydia.saurik.com/api/share#?source=http://nexusrepo.kro.kr</url>
+			<iconclass>fa fa-thumbs-up</iconclass>
+		</link>
+		<link>
 			<name>Support the Nexus on Paypal</name>
-			<url>https://paypal.me/peterdev/1</url>
+			<url>https://paypal.me/peterdev/</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
+			<name>Support the Nexus on Paypal(for Korean)</name>
+			<url>https://paypal.me/peterdevkr/</url>
 			<iconclass>fa fa-paypal</iconclass>
 		</link>
 		<link>
